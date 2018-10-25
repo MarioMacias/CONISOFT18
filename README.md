@@ -4,5 +4,7 @@ El domingo por la noche, Santiago Solari citó a sus jugadores a las 10.30 horas
 
 La historia empieza en los días previos al viaje a Vigo para medirse al Celta B. En el seno del vestuario del Castilla se pidió que el desplazamiento fuera en avión para evitar un largo viaje en carretera. Unas seis horas de ida y otras tantas de vuelta, sin contar paradas. Pero la reclamación no tuvo éxito. Así que el sábado, el equipo ponía rumbo a la ciudad viguesa para jugar el domingo a las 12.00 horas. 
 
+dsfdsttry
+
 vim README.md
 
